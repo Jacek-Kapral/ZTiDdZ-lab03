@@ -17,9 +17,3 @@ while True:
 	
 	else:
 		print("Zly wybor, wpisz z dla zaszyfrowania lub d dla deszyfrowania.")
-
-		
-		
-#do_zakodowania = input("Podaj lancuch znakow do zaszyfrowania: ")
-#zakodowany = base64.b64encode(do_zakodowania.encode())
-#print("Twoj zaszyfrowany lancuch znakow wyglada tak: ", zakodowany.decode())
